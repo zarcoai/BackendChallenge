@@ -4,7 +4,7 @@
 
 ## Intro
 
-If you’ve seen our website or had an intro interview, you see that transactional data sits on the center of your core system, and that marketing campaigns are what drive our product. 
+If you’ve seen our website or had an intro interview, you understand that transactional data and marketing campaigns are the main inputs to our core system and product. 
 
 For this challenge, we want you to focus on the merchants/campaigns side, and build a web server that consumes a database where merchants and campagins are configured.
 
@@ -31,7 +31,7 @@ Create a DB with a collection for merchants and another for campaigns.
 A merchant can have 0, 1 or more campaigns.
 
 Assume the following minimum document fields:
-* A Merchant has a name a url.
+* A Merchant has a name and a url.
 * A Campaign refers to a certain merchant, and has initial budget (e.g., 1000€), a cashback percentage (e.g. 10% cashback) and can have a purchase amount threshold (e.g., cashback only valid on purchases above 30€).
 
 You can populate the database in any way you like it.
