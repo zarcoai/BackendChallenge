@@ -1,3 +1,4 @@
+<img alt="Data4Deals logo" src="dark.svg" width="250" align="right" />
 # Data4Deals Coding challenge
 
 ## Intro
